@@ -1,7 +1,7 @@
 {
-  "name": "i_vol_api",
-  "version": "3.0.3",
-  "description": "implied_volatility_and_price_data_for_selected_ETFs_and_futures__Contact_info_at_volsurf_com",
+  "name": "ivolapi",
+  "version": "3.0.4",
+  "description": "implied volatility and price data for selected ETFs and future Contacts info_at_volsurf_com",
   "license": "Unlicense",
   "main": "src/index.js",
   "scripts": {
